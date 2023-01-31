@@ -1,0 +1,9 @@
+ffmpeg-python
+pyfluidsynth
+soundfile
+music21
+requests
+scipy
+argparse
+pydub
+wave
