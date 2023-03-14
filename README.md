@@ -7,6 +7,10 @@ MusicXML is a digital sheet music interchange and distribution format. The goal 
 [https://www.w3.org/2021/06/musicxml40/tutorial/introduction/]
 <div></div>
 
+## MusicXML tutorial
+Eng. [https://www.w3.org/2021/06/musicxml40/tutorial/hello-world/] <h6></h6>
+Kor. [https://scented-closet-4d5.notion.site/MusicXML-Tutorial-c4a47017a5ac497ea55b7016ad35dcc5]
+
 ## File Structure
         MusicXML to Audio
             |_ converter
