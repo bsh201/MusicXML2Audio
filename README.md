@@ -1,5 +1,6 @@
 # MusicXML to audio
 Can change musicxml in audio *(mp3, wav...)*
+It can be use in **LINUX**
 
 ## MusicXML
 MusicXML is a digital sheet music interchange and distribution format. The goal is to create a universal format for common Western music notation, similar to the role that the MP3 format serves for recorded music. The musical information is designed to be usable by notation programs, sequencers and other performance programs, music education programs, and music databases.
@@ -31,6 +32,7 @@ MusicXML is a digital sheet music interchange and distribution format. The goal 
 
     #install packages for use converter
     sh install_packages.sh
+    pip install -r requirements.txt
 
 <div></div>
 
