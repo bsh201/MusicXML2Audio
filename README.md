@@ -1,8 +1,12 @@
 # MusicXML to audio
-musicxml 형식을 audio로 변환할 수 있습니다.
+Can change musicxml in audio *(mp3, wav...)*
+
+## MusicXML
+MusicXML is a digital sheet music interchange and distribution format. The goal is to create a universal format for common Western music notation, similar to the role that the MP3 format serves for recorded music. The musical information is designed to be usable by notation programs, sequencers and other performance programs, music education programs, and music databases.
+[https://www.w3.org/2021/06/musicxml40/tutorial/introduction/]
+<div></div>
 
 ## File Structure
-
         MusicXML to Audio
             |_ converter
                 |_ midi2wav.py
@@ -20,3 +24,21 @@ musicxml 형식을 audio로 변환할 수 있습니다.
 
 
 ## How to use
+    #clone git repo
+    git clone https://github.com/byj9402/MusicXML2Audio.git
+
+<div></div>
+
+    #install packages for use converter
+    sh install_packages.sh
+
+<div></div>
+
+    #put musicxml in .\data\.xml
+
+<div></div>
+
+    #run converter
+    python main.py
+
+<div></div>
