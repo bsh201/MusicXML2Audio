@@ -3,7 +3,6 @@ import fnmatch
 
 import soundfile as sf
 import numpy as np
-import wave
 
 from midi2audio import FluidSynth
 
